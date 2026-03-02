@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mountain View",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-03-02T09:58:58.892861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walk With Me (Bridge School - Shoreline Amphitheatre - Mountain View, CA 10/23/2010)",
+      "artist": "Pearl Jam & Neil Young",
+      "has_synced": true,
+      "path": "select/01_Walk_With_Me_(Bridge_School_-_Shoreline_Amphitheatre_-_Mountain_View,_CA_10_23_2_Pearl_Jam_&_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walk With Me (Bridge School - Shoreline Amphitheatre - Mountain View, CA 10\u000023\u00002010)",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/02_Walk_With_Me_(Bridge_School_-_Shoreline_Amphitheatre_-_Mountain_View,_CA_10\u000023\u00002_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like Nobody Else (Mountain View Remix)",
+      "artist": "My Darkest Days",
+      "has_synced": true,
+      "path": "select/03_Like_Nobody_Else_(Mountain_View_Remix)_My_Darkest_Days.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walk With Me [with Neil Young] (Bridge School Benefit, Mountain View, CA 10-23-10)",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/04_Walk_With_Me_[with_Neil_Young]_(Bridge_School_Benefit,_Mountain_View,_CA_10-23-1_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walk With Me (Bridge School - Shoreline Amphitheatre - Mountain View, CA 10/23/2010)",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/05_Walk_With_Me_(Bridge_School_-_Shoreline_Amphitheatre_-_Mountain_View,_CA_10_23_2_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Like Nobody Else (Mountain View Mix)",
+      "artist": "My Darkest Days",
+      "has_synced": true,
+      "path": "select/06_Like_Nobody_Else_(Mountain_View_Mix)_My_Darkest_Days.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "21 Guns - (Mountain View, CA)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/07_21_Guns_-_(Mountain_View,_CA)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seeds - Live at Shoreline Amphitheatre, Mountain View, CA - 10/13/1986",
+      "artist": "Bruce Springsteen",
+      "has_synced": false,
+      "path": "select/08_Seeds_-_Live_at_Shoreline_Amphitheatre,_Mountain_View,_CA_-_10_13_1986_Bruce_Springsteen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dancing In the Dark - Live at Shoreline Amphitheatre, Mountain View, CA - 10/13/1986",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/09_Dancing_In_the_Dark_-_Live_at_Shoreline_Amphitheatre,_Mountain_View,_CA_-_10_13__Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dancing in the Dark (live at Shoreline Amphitheatre, Mountain View, CA – 10/13/1986)",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/10_Dancing_in_the_Dark_(live_at_Shoreline_Amphitheatre,_Mountain_View,_CA_–_10_13_1_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seeds (live at Shoreline Amphitheatre, Mountain View, CA – 10/13/1986)",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/11_Seeds_(live_at_Shoreline_Amphitheatre,_Mountain_View,_CA_–_10_13_1986)_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Comfortable (Acoustic (Live at Shoreline Amphitheater, Mountain View, CA, July 16, 2004))",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/12_Comfortable_(Acoustic_(Live_at_Shoreline_Amphitheater,_Mountain_View,_CA,_July_1_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Home Life - Acoustic - Live at Shoreline Amphitheater, Mountain View, CA, July 16, 2004",
+      "artist": "John Mayer",
+      "has_synced": false,
+      "path": "select/13_Home_Life_-_Acoustic_-_Live_at_Shoreline_Amphitheater,_Mountain_View,_CA,_July_1_John_Mayer.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dancing In the Dark (Live at Shoreline Amphitheatre, Mountain View, CA - 10/13/1986)",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/14_Dancing_In_the_Dark_(Live_at_Shoreline_Amphitheatre,_Mountain_View,_CA_-_10_13_1_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Walk with Me ft. Neil Young [Mountain View, CA 10-23-2010]",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/15_Walk_with_Me_ft._Neil_Young_[Mountain_View,_CA_10-23-2010]_Pearl_Jam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mountain View",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_Mountain_View_SKRYU.txt"
+    }
+  ]
+}
